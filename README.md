@@ -57,7 +57,7 @@
 
 <h2 id="colab">🤝 Colaboradores</h2>
 
-Agradecimento especial para todas as pessoas que contribuíram com este projto.
+Agradecimento especial para todas as pessoas que contribuíram com este projeto.
 
 <!-- Fotos autores -->
 <table>
